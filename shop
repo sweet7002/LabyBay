@@ -3,7 +3,7 @@
 <head>
   <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 	<meta name="theme-color" content="#000000"/>
-   
+    
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" type="image/x-icon" href="BlackLogo.png">
@@ -123,13 +123,14 @@ input[type="radio"]{
          <ul>
          	
             <li><a class="active" href="">SHOP</a></li>
-            <li><a href="faq.html">FAQ</a></li>
             <li><a href="wheel.html">FATE</a></li>
+            
           
 
             <li><a href="safety.html">SAFETY</a></li>
+            
             <li><a href="contact.html">CONTACT</a></li>
-            <li><a href="login"><i class="fas fa-user-circle"></i></a></li>
+            <li><a href="login.html"><i class="fas fa-user-circle"></i></a></li>
          </ul>
       </nav>
     <div class="background-shop">
@@ -150,13 +151,13 @@ input[type="radio"]{
           <h4 class="titlee">STABLE GENIUS</h4>
         </div>
           <br><br>
-          <p class="instock">In stock</p>
+          <p class="instock">Out Of Stock</p>
           <br><br>
-          <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
+          <a class="quantity"><b class="less">-</b></a><b class="numaro">0</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/OLoJoMC" class="addtocart">Add to Cart</a>
+         
           <br><br><br>
-          <a href="https://shoppy.gg/product/OLoJoMC" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
         
          <article class="article">
@@ -171,9 +172,9 @@ input[type="radio"]{
           <br><br>
           <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/bixazt2" class="addtocart">Add to Cart</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
           <br><br><br>
-          <a href="https://shoppy.gg/product/bixazt2" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
        
          <article class="article">
@@ -188,9 +189,9 @@ input[type="radio"]{
           <br><br>
           <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/Eqj3vKz" class="addtocart">Add to Cart</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
           <br><br><br>
-          <a href="https://shoppy.gg/product/Eqj3vKz" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
         
          <article class="article">
@@ -205,9 +206,9 @@ input[type="radio"]{
           <br><br>
           <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/eJwT8gM" class="addtocart">Add to Cart</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
           <br><br><br>
-          <a href="https://shoppy.gg/product/eJwT8gM" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
        
          <article class="article">
@@ -222,9 +223,9 @@ input[type="radio"]{
           <br><br>
           <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/5YxFW1n" class="addtocart">Add to Cart</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
           <br><br><br>
-          <a href="https://shoppy.gg/product/5YxFW1n" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
         
          <article class="article">
@@ -239,9 +240,9 @@ input[type="radio"]{
           <br><br>
           <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/gwrwBTo" class="addtocart">Add to Cart</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
           <br><br><br>
-          <a href="https://shoppy.gg/product/gwrwBTo" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
        
          <article class="article">
@@ -256,9 +257,9 @@ input[type="radio"]{
           <br><br>
           <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/6ny8jwW" class="addtocart">Add to Cart</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
           <br><br><br>
-          <a href="https://shoppy.gg/product/6ny8jwW" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
        
          <article class="article">
@@ -269,12 +270,13 @@ input[type="radio"]{
           <h4 class="titlee">SMILING DEVIL</h4>
       </div>
           <br><br>
-       <p  
+          <p class="instock">In stock</p>
           <br><br>
-         <a>
-          <a class="quantity"><b class="less">-</b></a><b class="numaro">0</b><a class="quantity-plus"><b class="less">-</b></a>
+          <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/G3gjSVq" class="checkout">Check Out</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
+          <br><br><br>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
         
          <article class="article">
@@ -282,102 +284,23 @@ input[type="radio"]{
           <img width="150" class="objettt" src="100.png" alt="Donald Trump">
         </div>  
       <div align="center">
-          <h4 class="titlee">SURPRISE ME</h4>
-      </div>
-          <br><br>
-          <p class="instock">In stock</p>
-          <br><br>
-          <a class="quantity"><b class="less">-</b></a><b class="numaro">2</b><a class="quantity-plus"><b class="less">+</b></a>
-          <br><br><br><br>
-          <a href="https://shoppy.gg/product/aArR92j" class="addtocart">Add to Cart</a>
-          <br><br><br>
-          <a href="https://shoppy.gg/product/aArR92j" class="checkout">Check Out</a>
-        </article>
-    
-
-          <article class="article">
-        <div align="center">  
-          <img width="150" class="objett" src="RoseusSnowflake.png" alt="Donald Trump">
-        </div>  
-      <div align="center">
-          <h4 class="titlee">ROSEUS SNOWFLAKE</h4>
+          <h4 class="titlee">SUPRISE ME</h4>
       </div>
           <br><br>
           <p class="instock">In stock</p>
           <br><br>
           <a class="quantity"><b class="less">-</b></a><b class="numaro">1</b><a class="quantity-plus"><b class="less">+</b></a>
           <br><br><br><br>
-          <a href="https://shoppy.gg/product/0CEmXIY" class="addtocart">Add to Cart</a>
+          <a href="LOL" class="addtocart">Add to Cart</a>
           <br><br><br>
-          <a href="https://shoppy.gg/product/0CEmXIY" class="checkout">Check Out</a>
+          <a href="LOL" class="checkout">Check Out</a>
         </article>
-   
-      <article class="article">
-        <div align="center">  
-          <img width="150" class="objett" src="BluePill.png" alt="Donald Trump">
-        </div>  
-      <div align="center">
-          <h4 class="titlee">BLUE PILL</h4>
-      </div>
-          <br><br>
-          <p class="instock">In Stock</p>
-          <br><br>
-          <a class="quantity"><b class="less">-</b></a><b class="numaro">2</b><a class="quantity-plus"><b class="less">+</b></a>
-          <br><br><br><br>
-          <a href="https://shoppy.gg/product/jTWFghl" class="addtocart">Add to Cart</a>
-          <br><br><br>
-          <a href="https://shoppy.gg/product/jTWFghl" class="checkout">Check Out</a>
-        </article>
-
-         <article class="article">
-        <div align="center">  
-          <img width="150" class="objett" src="sun.png" alt="Donald Trump">
-        </div>  
-      <div align="center">
-          <h4 class="titlee">GEEK'S PILL</h4>
-      </div>
-          <br><br>
-          <p class="instock">In Stock</p>
-          <br><br>
-          <a class="quantity"><b class="less">-</b></a><b class="numaro">2</b><a class="quantity-plus"><b class="less">+</b></a>
-          <br><br><br><br>
-          <a href="https://shoppy.gg/product/qHiXLT2" class="addtocart">Add to Cart</a>
-          <br><br><br>
-          <a href="hhttps://shoppy.gg/product/qHiXLT2" class="checkout">Check Out</a>
-        </article>
-
-<article class="article">
-        <div align="center">  
-          <img width="150" class="objett" src="igcognito_pill.png" alt="Donald Trump">
-        </div>  
-      <div align="center">
-          <h4 class="titlee">PRIVACY FREAK</h4>
-      </div>
-          <br><br>
-          <p class="instock">In Stock</p>
-          <br><br>
-          <a class="quantity"><b class="less">-</b></a><b class="numaro">2</b><a class="quantity-plus"><b class="less">+</b></a>
-          <br><br><br><br>
-          <a href="https://shoppy.gg/product/WxyUrvn" class="addtocart">Add to Cart</a>
-          <br><br><br>
-          <a href="https://shoppy.gg/product/WxyUrvn" class="checkout">Check Out</a>
-        </article>
-
-
-
-<center>
-
-
-
-   </div></div>
+    </div></div>
     <br><br>
     <br><br>
    </div>
-        <!DOCTYPE HTML>
-<html>
 
-
-
+        
 
 </body>
 <style type="text/css">
